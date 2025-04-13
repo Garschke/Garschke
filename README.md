@@ -1,4 +1,12 @@
-## Hi there 👋
+[![MasterHead](src/fedora-30-wallpaper.jpg)](https://garschke.eu)
+
+<h1 align="center">Andrew Garschke</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+passions+are+Computing+and+Technology)](https://git.io/typing-svg)
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garschke&&theme=tokyonight" alt="garschke/"></p>
 
 <!--
 **Garschke/Garschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Garschke&theme=tokyonight&border_radius=4.8)](https://git.io/streak-stats)
