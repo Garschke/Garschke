@@ -2,10 +2,12 @@
 
 <h1 align="center">Andrew Garschke</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+passions+are+Computing+and+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+passions+are+Computing+%26+Technology;Science,+Innovation+and+Data+Visulization)](https://git.io/typing-svg)
 
 <br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garschke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="garschke" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=garschke&show_icons=true&locale=en&theme=tokyonight" alt="garschke" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garschke&&theme=tokyonight" alt="garschke/"></p>
 
 <!--
