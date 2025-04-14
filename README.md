@@ -30,8 +30,6 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/FileZilla.svg" alt="FileZilla" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Postman.svg" alt="Postman" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Git.svg" alt="Git" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="src/github-icon.svg" alt="Github-icon" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="src/github-white-icon.svg" alt="Github-white-icon" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/GitHub.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/gitkraken.svg" alt="Gitkraken" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Jira.svg" alt="Jira" width="40" height="40"/></a>
