@@ -50,13 +50,13 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Ubuntu.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/AWS.svg" alt="AWS" width="40" height="40"/></a>
 
-<a href="#" target="_blank" rel="noreferrer"> <img src="src/Office_365_apps.svg" alt="Office_365_apps" width="300" height="120"/></a>
+<!-- <a href="#" target="_blank" rel="noreferrer"> <img src="src/Office_365_apps.svg" alt="Office_365_apps" width="300" height="120"/></a> -->
 
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garschke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="garschke" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=garschke&show_icons=true&locale=en&theme=tokyonight" alt="garschke" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garschke&&theme=tokyonight" alt="garschke/"></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garschke&&theme=tokyonight" alt="garschke/"></p> -->
 
 <!--
 **Garschke/Garschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
