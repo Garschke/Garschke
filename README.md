@@ -42,6 +42,7 @@
 
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/VS_Code.svg" alt="VS Code" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Jupyter.svg" alt="Jupyter" width="40" height="40"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="src/Google_Colab.svg" alt="Colab" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/PyCharm.svg" alt="PyCharm" width="40" height="40"/></a>
 
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Apple.svg" alt="Apple" width="40" height="40"/></a>
