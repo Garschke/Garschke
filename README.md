@@ -24,8 +24,8 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/PostgresSQL.svg" alt="PostgresSQL" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Snowflake.svg" alt="Snowflake" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Streamlit.svg" alt="Streamlit" width="40" height="40"/></a>
-
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/DBT.svg" alt="DBT" width="40" height="40"/></a>
+
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/docker.svg" alt="docker" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/FileZilla.svg" alt="FileZilla" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Postman.svg" alt="Postman" width="40" height="40"/></a>
