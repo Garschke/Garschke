@@ -12,13 +12,14 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/csharp.svg" alt="C sharp" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/css3.svg" alt="css3" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/html5.svg" alt="html5" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="src/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Python.svg" alt="Python" width="40" height="40"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="src/VBA.svg" alt="VBA" width="40" height="40"/></a>
+
+<a href="#" target="_blank" rel="noreferrer"> <img src="src/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/NumPy.svg" alt="NumPy" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Pandas.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Seaborn.svg" alt="Seaborn" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Flask.svg" alt="Flask" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="src/VBA.svg" alt="VBA" width="40" height="40"/></a>
 
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Sqlite.svg" alt="Sqlite" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/PostgresSQL.svg" alt="PostgresSQL" width="40" height="40"/></a>
