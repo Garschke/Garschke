@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+passions+are+Computing+%26+Technology;Science,+Innovation+and+Data+Visulization)](https://git.io/typing-svg)
 
 <br>
-<h3 align="left">Languages, Packages, Frameworks, Tools, Envitonments and Platforms:</h3>
+<h3 align="left">Languages, Packages, Frameworks, Tools, Environments and Platforms:</h3>
 <p align="left">
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/c.svg" alt="C" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/cplusplus.svg" alt="C plus plus" width="40" height="40"/></a>
