@@ -35,6 +35,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/gitkraken.svg" alt="Gitkraken" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Jira.svg" alt="Jira" width="40" height="40"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="src/Confluence.svg" alt="Jira" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Slack.svg" alt="Slack" width="40" height="40"/></a>
 
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/google_analytics.svg" alt="Google Analytics" width="40" height="40"/></a>
