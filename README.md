@@ -33,6 +33,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Git.svg" alt="Git" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/GitHub.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/gitkraken.svg" alt="Gitkraken" width="40" height="40"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="src/Trello.svg" alt="Trello" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Jira.svg" alt="Jira" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="src/Slack.svg" alt="Slack" width="40" height="40"/></a>
 
